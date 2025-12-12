@@ -1,0 +1,147 @@
+# Complete requirements for Flair project
+# Includes all dependencies for training, inference, and development
+
+# ============================================================================
+# Core Dependencies (Required for all operations)
+# ============================================================================
+
+# PyTorch - Core deep learning framework
+torch>=1.13.1
+
+# Transformers - For transformer-based embeddings (used in models)
+# Note: Excluding versions 4.40.0 and 4.40.1 due to known issues
+transformers[sentencepiece]>=4.25.0,<5.0.0,!=4.40.0,!=4.40.1
+
+# HuggingFace Hub - For downloading and managing models
+huggingface-hub>=0.10.0
+
+# Progress bars
+tqdm>=4.63.0
+
+# Deprecated decorator
+deprecated>=1.2.13
+
+# Text processing utilities
+regex>=2022.1.18
+ftfy>=6.1.0
+
+# ============================================================================
+# Data Processing & Datasets
+# ============================================================================
+
+# CoNLL-U file parsing
+conllu>=4.0,<5.0.0
+
+# Language detection
+langdetect>=1.0.9
+
+# XML/HTML parsing
+lxml>=4.8.0
+
+# Sentence tokenization
+segtok>=1.5.11
+
+# Date parsing
+python-dateutil>=2.8.2
+
+# ============================================================================
+# Training & Machine Learning
+# ============================================================================
+
+# Scikit-learn - ML utilities
+scikit-learn>=1.0.2
+
+# PyTorch gradient reversal
+pytorch_revgrad>=0.2.0
+
+# Transformer vocabulary optimization
+transformer-smaller-training-vocab>=0.2.3
+
+# ============================================================================
+# Data Sources & Downloading
+# ============================================================================
+
+# AWS S3 access
+boto3>=1.20.27
+
+# Google Drive downloader
+gdown>=4.4.0
+
+# Wikipedia API
+wikipedia-api>=0.5.7
+
+# ============================================================================
+# Visualization & Utilities
+# ============================================================================
+
+# Plotting
+matplotlib>=2.2.3
+
+# Interactive plots
+mpld3>=0.3
+
+# Tree visualization
+pptree>=3.1
+
+# Table formatting
+tabulate>=0.8.10
+
+# Additional utilities
+more-itertools>=8.13.0
+
+# Caching
+sqlitedict>=2.0.0
+
+# ============================================================================
+# Biomedical NLP (Optional)
+# ============================================================================
+
+# Biomedical text processing
+bioc<3.0.0,>=2.0.0
+
+# ============================================================================
+# Development Dependencies (Testing, Linting, Formatting)
+# ============================================================================
+
+# Code formatting
+black[jupyter]==24.2.*
+
+# Linting
+ruff==0.7.*
+
+# Type checking
+mypy>=1.2.0
+
+# Testing framework
+pytest>=7.3.1
+
+# Testing plugins
+pytest-black-ng==0.4.*
+pytest-github-actions-annotate-failures>=0.1.8
+pytest-mypy>=0.10.3
+pytest-ruff==0.3.*
+
+# Type stubs
+types-dataclasses>=0.6.6
+types-Deprecated>=1.2.9.2
+types-requests>=2.28.11.17
+types-tabulate>=0.9.0.2
+
+# Japanese tokenization (for konoha)
+konoha[janome]<6.0.0
+
+# Abbreviation detection
+pyab3p
+
+# ============================================================================
+# Installation Note
+# ============================================================================
+# 
+# If using this project from source code, install with:
+#   pip install -r requirements.txt
+#   pip install -e .
+#
+# If using Flair from PyPI, you can install just Flair:
+#   pip install flair
+#   (This will install most dependencies automatically)
+#
