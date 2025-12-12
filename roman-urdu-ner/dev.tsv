@@ -1,0 +1,3181 @@
+Yeh O O
+conference O O
+saal O B-DATE
+ke O O
+aakhir B-DATE O
+mein O O
+hogi O O
+. O O
+
+Aaj O O
+raat B-DATE B-DATE
+ko O O
+dawat O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+2008 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Unka O O
+beta O O
+Prime B-DES B-DES
+Minister B-DES B-DES
+hai O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Fahad B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+PTI B-ORG B-ORG
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Woh O O
+Samsung B-ORG B-ORG
+ka O O
+phone O O
+use O O
+karta O O
+hai O O
+. O O
+
+Unka O O
+beta O O
+Prime B-DES B-DES
+Minister B-DES B-DES
+hai O O
+. O O
+
+Aaj O O
+subah B-DATE B-DATE
+ko O O
+nashta O O
+kya O O
+tha O O
+. O O
+
+Woh O O
+HBL B-ORG B-ORG
+ki O O
+service O O
+use O O
+karta O O
+hai O O
+. O O
+
+Aaj O O
+sham B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Aaj O O
+subah B-DATE B-DATE
+ko O O
+nashta O O
+kya O O
+tha O O
+. O O
+
+Woh O O
+HBL B-ORG B-ORG
+ke O O
+chairman O O
+hain O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+March B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Aaj O O
+sham B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Woh O O
+China B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+March B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+China B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+2017 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+United B-ORG B-ORG
+Bank I-ORG I-ORG
+Limited I-ORG I-ORG
+ke O O
+chairman O O
+hain O O
+. O O
+
+Woh O O
+HBL B-ORG B-ORG
+ke O O
+chairman O O
+hain O O
+. O O
+
+Woh O O
+Aj O O
+subah B-DATE B-DATE
+8 I-DATE B-LOC
+baje I-DATE I-LOC
+office O O
+pohuncha O O
+tha O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+January B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+Samsung B-ORG B-ORG
+ka O O
+phone O O
+use O O
+karta O O
+hai O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Hira B-PER B-PER
+hai O O
+. O O
+
+Hum O O
+Lahore B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehte O O
+hain O O
+. O O
+
+Woh O O
+Samsung B-ORG B-ORG
+ka O O
+phone O O
+use O O
+karta O O
+hai O O
+. O O
+Main O O
+ne O O
+apni O O
+chuttiyan O O
+July B-DATE O
+15 I-DATE O
+ko O O
+shuru O O
+ki O O
+hain O O
+. O O
+
+Woh O O
+Habib B-ORG B-ORG
+Bank I-ORG I-ORG
+ki O O
+service O O
+use O O
+karta O O
+hai O O
+. O O
+
+Unka O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Kharja O O
+hai O O
+. O O
+
+Aaj O O
+sham B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Woh O O
+Shell B-ORG B-ORG
+ki O O
+gas O O
+use O O
+karta O O
+hai O O
+. O O
+
+Aaj O O
+raat B-DATE B-DATE
+ko O O
+dawat O O
+hai O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Ali B-PER B-PER
+hai O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Fatima B-PER B-PER
+hai O O
+. O O
+
+Hum O O
+Lahore B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehte O O
+hain O O
+. O O
+
+Aaj O O
+raat B-DATE B-DATE
+ko O O
+dawat O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+1985 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+1923 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+Shell B-ORG B-ORG
+ki O O
+gas O O
+use O O
+karta O O
+hai O O
+. O O
+
+Unka O O
+beta O O
+Prime B-DES B-DES
+Minister B-DES B-DES
+hai O O
+. O O
+
+Woh O O
+Habib B-ORG B-ORG
+Bank I-ORG I-ORG
+ke O O
+chairman O O
+hain O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Unka O O
+beta O O
+Prime B-DES B-DES
+Minister B-DES B-DES
+hai O O
+. O O
+
+Woh O O
+Quetta B-LOC B-ORG
+se O O
+Islamabad B-LOC B-LOC
+safarnama O O
+kar O O
+raha O O
+tha O O
+. O O
+
+Aaj O O
+subah B-DATE B-DATE
+ko O O
+nashta O O
+kya O O
+tha O O
+. O O
+
+Woh O O
+shaadi O O
+March B-DATE B-DATE
+ke O O
+aakhir O O
+mein O O
+ho O O
+gi O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Aaj O O
+dopahar B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Woh O O
+Federal B-ORG B-ORG
+Minister B-DES B-DES
+hain O O
+. O O
+
+Woh O O
+UN O O
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Hum O O
+Lahore B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehte O O
+hain O O
+. O O
+
+Woh O O
+China B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Hum O O
+Lahore B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehte O O
+hain O O
+. O O
+
+Hum O O
+Lahore B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehte O O
+hain O O
+. O O
+
+Unka O O
+beta O O
+President B-DES B-DES
+hai O O
+. O O
+
+Woh O O
+Shell B-ORG B-ORG
+ki O O
+gas O O
+use O O
+karta O O
+hai O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Usman B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+May B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Unka O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Kharja O O
+hai O O
+. O O
+
+Unka O O
+beta O O
+Prime B-DES B-DES
+Minister B-DES B-DES
+hai O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+2015 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Aaj O O
+sham B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Aaj O O
+subah B-DATE B-DATE
+ko O O
+nashta O O
+kya O O
+tha O O
+. O O
+
+Woh O O
+United B-ORG B-ORG
+Bank I-ORG I-ORG
+Limited I-ORG I-ORG
+ki O O
+service O O
+use O O
+karta O O
+hai O O
+. O O
+
+Woh O O
+Samsung B-ORG B-ORG
+ka O O
+phone O O
+use O O
+karta O O
+hai O O
+. O O
+
+Pakistan B-LOC B-LOC
+ke O O
+Prime B-DES B-DES
+Minister B-DES B-DES
+ka O O
+bayaan O O
+aaya O O
+hai O O
+. O O
+
+Pichle O O
+saal B-DATE O
+December I-DATE B-DATE
+mein O O
+barf O O
+pari O O
+thi O O
+. O O
+
+Unka O O
+beta O O
+Prime B-DES B-DES
+Minister B-DES B-DES
+hai O O
+. O O
+
+Aaj O O
+dopahar B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Woh O O
+PTI B-ORG B-ORG
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+June B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+2010 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+HBL B-ORG B-ORG
+ke O O
+chairman O O
+hain O O
+. O O
+
+Hum O O
+Australia B-LOC B-LOC
+mein O O
+rehte O O
+hain O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Fahad B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Aaj O O
+dopahar B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Aaj O O
+dopahar B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Ayesha B-PER B-PER
+hai O O
+. O O
+
+Hum O O
+Australia B-LOC B-LOC
+mein O O
+rehte O O
+hain O O
+. O O
+
+Woh O O
+PTI B-ORG B-ORG
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Aaj O O
+sham B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Woh O O
+HBL B-ORG B-ORG
+ke O O
+chairman O O
+hain O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Ayesha B-PER B-PER
+hai O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Fatima B-PER B-PER
+hai O O
+. O O
+
+Aaj O O
+raat B-DATE B-DATE
+ko O O
+dawat O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+May B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Fatima B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Hum O O
+ne O O
+Amazon B-ORG B-ORG
+se O O
+naya O O
+mobile O O
+phone O O
+order O O
+kiya O O
+. O O
+
+Unka O O
+beta O O
+President B-DES B-DES
+hai O O
+. O O
+
+Woh O O
+HBL B-ORG B-ORG
+ke O O
+chairman O O
+hain O O
+. O O
+
+Aaj O O
+sham B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Ayesha B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+Habib B-ORG B-ORG
+Bank I-ORG I-ORG
+ki O O
+service O O
+use O O
+karta O O
+hai O O
+. O O
+
+Woh O O
+PTI B-ORG B-ORG
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Aaj O O
+raat B-DATE B-DATE
+ko O O
+dawat O O
+hai O O
+. O O
+
+Asad B-PER B-PER
+ne O O
+Telenor B-ORG B-ORG
+office O O
+mein O O
+join O O
+kiya O O
+. O O
+
+Hum O O
+Lahore B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehte O O
+hain O O
+. O O
+
+Aaj O O
+raat B-DATE B-DATE
+ko O O
+dawat O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+May B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+1982 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Unka O O
+beta O O
+President B-DES B-DES
+hai O O
+. O O
+
+Woh O O
+China B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Woh O O
+Shell B-ORG B-ORG
+ki O O
+gas O O
+use O O
+karta O O
+hai O O
+. O O
+
+Aaj O O
+sham B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+August B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+PTI B-ORG B-ORG
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+2014 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Hum O O
+Australia B-LOC B-LOC
+mein O O
+rehte O O
+hain O O
+. O O
+
+Woh O O
+United B-ORG B-ORG
+Bank I-ORG I-ORG
+Limited I-ORG I-ORG
+ki O O
+service O O
+use O O
+karta O O
+hai O O
+. O O
+
+Woh O O
+United B-ORG B-ORG
+Bank I-ORG I-ORG
+Limited I-ORG I-ORG
+ki O O
+service O O
+use O O
+karta O O
+hai O O
+. O O
+
+Aaj O O
+sham B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Woh O O
+China B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Woh O O
+China B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+June B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Fahad B-PER B-PER
+hai O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Hira B-PER B-PER
+hai O O
+. O O
+
+Unka O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Azam O O
+hai O O
+. O O
+
+Hum O O
+Lahore B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehte O O
+hain O O
+. O O
+
+Unka O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Azam O O
+hai O O
+. O O
+
+Unka O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Azam O O
+hai O O
+. O O
+
+Woh O O
+China B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Woh O O
+China B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Woh O O
+China B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Aaj O O
+raat B-DATE B-DATE
+ko O O
+dawat O O
+hai O O
+. O O
+
+Woh O O
+HBL B-ORG B-ORG
+ki O O
+service O O
+use O O
+karta O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+November B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Unka O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Azam O O
+hai O O
+. O O
+
+Woh O O
+UN O O
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Woh O O
+PTI B-ORG B-ORG
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Aaj O O
+dopahar B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Woh O O
+United B-ORG B-ORG
+Bank I-ORG I-ORG
+Limited I-ORG I-ORG
+ke O O
+chairman O O
+hain O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Ayesha B-PER B-PER
+hai O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Fatima B-PER B-PER
+hai O O
+. O O
+
+Unka O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Kharja O O
+hai O O
+. O O
+
+Google B-ORG B-ORG
+ne O O
+naya O O
+software O O
+launch O O
+kiya O O
+hai O O
+. O O
+
+Woh O O
+UN O O
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Aaj O O
+subah B-DATE B-DATE
+ko O O
+nashta O O
+kya O O
+tha O O
+. O O
+
+Woh O O
+United B-ORG B-ORG
+Bank I-ORG I-ORG
+Limited I-ORG I-ORG
+mein O O
+kaam O O
+karta O O
+hai O O
+. O O
+
+Woh O O
+HBL B-ORG B-ORG
+ki O O
+service O O
+use O O
+karta O O
+hai O O
+. O O
+
+Hum O O
+Lahore B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehte O O
+hain O O
+. O O
+
+Unka O O
+beta O O
+President B-DES B-DES
+hai O O
+. O O
+
+Unka O O
+beta O O
+President B-DES B-DES
+hai O O
+. O O
+
+Hum O O
+Australia B-LOC B-LOC
+mein O O
+rehte O O
+hain O O
+. O O
+
+Woh O O
+Shell B-ORG B-ORG
+ki O O
+gas O O
+use O O
+karta O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+November B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+2016 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Hira B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+China B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Aaj O O
+subah B-DATE B-DATE
+ko O O
+nashta O O
+kya O O
+tha O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+July B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+1975 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Aaj O O
+dopahar B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Woh O O
+Lahore B-LOC B-LOC
+ki O O
+aik O O
+university O O
+mein O O
+parhta O O
+hai O O
+. O O
+
+Aaj O O
+sham B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Woh O O
+PTI B-ORG B-ORG
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Woh O O
+United B-ORG B-ORG
+Bank I-ORG I-ORG
+Limited I-ORG I-ORG
+ke O O
+chairman O O
+hain O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Ayesha B-PER B-PER
+hai O O
+. O O
+
+Dr. B-DES B-DES
+Junaid B-PER B-PER
+ne O O
+apna O O
+clinic O O
+shuru O O
+kiya O O
+. O O
+
+Hum O O
+Australia B-LOC B-LOC
+mein O O
+rehte O O
+hain O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+June B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Aaj O O
+dopahar B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Usman B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+Samsung B-ORG B-ORG
+ka O O
+phone O O
+use O O
+karta O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+February B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+Shell B-ORG B-ORG
+ki O O
+gas O O
+use O O
+karta O O
+hai O O
+. O O
+
+Woh O O
+PTI B-ORG B-ORG
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Woh O O
+Shell B-ORG B-ORG
+ki O O
+gas O O
+use O O
+karta O O
+hai O O
+. O O
+
+Woh O O
+China B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Unka O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Kharja O O
+hai O O
+. O O
+
+Aaj O O
+raat B-DATE B-DATE
+ko O O
+dawat O O
+hai O O
+. O O
+
+Hum O O
+Sunday B-DATE B-LOC
+ko O O
+zoo O O
+jaenge O O
+. O O
+
+Woh O O
+UN O O
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Ayesha B-PER B-PER
+hai O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Ali B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+China B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Hira B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+2012 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+China B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Aaj O O
+sham B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Agli O O
+Eid B-DATE B-DATE
+June B-DATE B-DATE
+mein O O
+hai O O
+. O O
+
+Woh O O
+United B-ORG B-ORG
+Bank I-ORG I-ORG
+Limited I-ORG I-ORG
+ki O O
+service O O
+use O O
+karta O O
+hai O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Hira B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+Shell B-ORG B-ORG
+ki O O
+gas O O
+use O O
+karta O O
+hai O O
+. O O
+
+Hum O O
+Australia B-LOC B-LOC
+mein O O
+rehte O O
+hain O O
+. O O
+
+Unka O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Kharja O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+2014 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+United B-ORG B-ORG
+Bank I-ORG I-ORG
+Limited I-ORG I-ORG
+ke O O
+chairman O O
+hain O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+1925 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+Samsung B-ORG B-ORG
+ka O O
+phone O O
+use O O
+karta O O
+hai O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Woh O O
+United B-ORG B-ORG
+Bank I-ORG I-ORG
+Limited I-ORG I-ORG
+ke O O
+chairman O O
+hain O O
+. O O
+
+Woh O O
+Shell B-ORG B-ORG
+ki O O
+gas O O
+use O O
+karta O O
+hai O O
+. O O
+
+Aglay O B-PER
+Mahine B-DATE B-PER
+Pakistan B-LOC I-PER
+ka O O
+visit O O
+hai O O
+. O O
+
+Woh O O
+China B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Ali B-PER B-PER
+hai O O
+. O O
+
+Unka O O
+beta O O
+Prime B-DES B-DES
+Minister B-DES B-DES
+hai O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+2017 B-DATE B-DATE
+mein O O
+wapis O O
+aaya O O
+tha O O
+. O O
+
+Unka O O
+beta O O
+Prime B-DES B-DES
+Minister B-DES B-DES
+hai O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Fatima B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+Shell B-ORG B-ORG
+ki O O
+gas O O
+use O O
+karta O O
+hai O O
+. O O
+
+Woh O O
+Shell B-ORG B-ORG
+ki O O
+gas O O
+use O O
+karta O O
+hai O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Fahad B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+China B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Hum O O
+Peshawar B-LOC B-LOC
+mein O O
+Bab O O
+e O O
+Khyber O O
+ghoomne O O
+gaye O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+1957 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Unka O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Kharja O O
+hai O O
+. O O
+
+Unka O O
+beta O O
+Prime B-DES B-DES
+Minister B-DES B-DES
+hai O O
+. O O
+
+Woh O O
+Bahria B-LOC B-LOC
+Town I-LOC I-LOC
+ki O O
+aik O O
+chhoti O O
+si O O
+gali O O
+mein O O
+rehta O O
+hai O O
+. O O
+
+Unka O O
+beta O O
+Prime B-DES B-DES
+Minister B-DES B-DES
+hai O O
+. O O
+
+Pichli O O
+raat B-DATE B-DATE
+main O O
+ne O O
+McDonalds B-ORG B-ORG
+mein O O
+dinner O O
+kiya O O
+tha O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Usman B-PER B-PER
+hai O O
+. O O
+
+Unka O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Azam O O
+hai O O
+. O O
+
+Hamari O O
+family O O
+Australia B-LOC B-LOC
+mein O O
+rehti O O
+hai O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Fatima B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Shahzaib B-PER B-PER
+Hassan I-PER B-PER
+ne O O
+apna O O
+naya O O
+business O O
+shuru O O
+kiya O O
+. O O
+
+Aaj O O
+subah B-DATE B-DATE
+ko O O
+nashta O O
+kya O O
+tha O O
+. O O
+
+Unka O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Kharja O O
+hai O O
+. O O
+
+Woh O O
+China B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Uska O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Azam O O
+hai O O
+. O O
+
+Woh O O
+UN O O
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Woh O O
+pichli O O
+raat B-DATE B-DATE
+1 O O
+baje O O
+wapis O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+Samsung B-ORG B-ORG
+ka O O
+phone O O
+use O O
+karta O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+1920 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Hum O O
+Australia B-LOC B-LOC
+mein O O
+rehte O O
+hain O O
+. O O
+
+Hum O O
+is O O
+saal O O
+Europe B-LOC B-DATE
+ja O O
+rahe O O
+hain O O
+. O O
+
+Unka O O
+beta O O
+President B-DES B-DES
+hai O O
+. O O
+
+Woh O O
+do O O
+hafte B-DATE B-DATE
+se O O
+ghar O O
+se O O
+bahar O O
+tha O O
+. O O
+
+Woh O O
+PTI B-ORG B-ORG
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+January B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Unka O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Kharja O O
+hai O O
+. O O
+
+Hum O O
+Australia B-LOC B-LOC
+mein O O
+rehte O O
+hain O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Fahad B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+March B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Unka O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Kharja O O
+hai O O
+. O O
+
+Woh O O
+UN O O
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Woh O O
+Shell B-ORG B-ORG
+ki O O
+gas O O
+use O O
+karta O O
+hai O O
+. O O
+
+Woh O O
+Shell B-ORG B-ORG
+ki O O
+gas O O
+use O O
+karta O O
+hai O O
+. O O
+
+PTI B-ORG B-ORG
+ke O O
+leaders O O
+ne O O
+Dhaka B-LOC B-LOC
+visit O O
+kiya O O
+. O O
+
+Hamid B-PER B-PER
+ne O O
+apni O O
+nai O O
+car O O
+khareedi O O
+hai O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Fahad B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+Samsung B-ORG B-ORG
+ka O O
+phone O O
+use O O
+karta O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+2010 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Unka O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Azam O O
+hai O O
+. O O
+
+Aaj O O
+subah B-DATE B-DATE
+ko O O
+nashta O O
+kya O O
+tha O O
+. O O
+
+Woh O O
+Shell B-ORG B-ORG
+ki O O
+gas O O
+use O O
+karta O O
+hai O O
+. O O
+
+Woh O O
+Shell B-ORG B-ORG
+ki O O
+gas O O
+use O O
+karta O O
+hai O O
+. O O
+
+Hum O O
+Australia B-LOC B-LOC
+mein O O
+rehte O O
+hain O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Usman B-PER B-PER
+hai O O
+. O O
+
+Aaj O O
+dopahar B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+2011 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Hum O O
+Australia B-LOC B-LOC
+mein O O
+rehte O O
+hain O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+1944 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Uska O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Aala O O
+hai O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Ayesha B-PER B-PER
+hai O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Ali B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+Habib B-ORG B-ORG
+Bank I-ORG I-ORG
+ki O O
+service O O
+use O O
+karta O O
+hai O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Hira B-PER B-PER
+hai O O
+. O O
+
+Unka O O
+beta O O
+President B-DES B-DES
+hai O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Unka O O
+beta O O
+President B-DES B-DES
+hai O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+2017 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Unka O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Kharja O O
+hai O O
+. O O
+
+Unka O O
+beta O O
+Prime B-DES B-DES
+Minister B-DES B-DES
+hai O O
+. O O
+
+Woh O O
+Shanghai B-LOC B-LOC
+ki O O
+aik O O
+company O O
+mein O O
+Manager B-DES B-DES
+hai O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Ayesha B-PER B-PER
+hai O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Fatima B-PER B-PER
+hai O O
+. O O
+
+Aaj O O
+dopahar B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Aaj O O
+raat B-DATE B-DATE
+ko O O
+dawat O O
+hai O O
+. O O
+
+Woh O O
+London B-LOC B-LOC
+School B-ORG B-ORG
+of I-ORG I-ORG
+Economics I-ORG I-ORG
+se O O
+graduate O O
+hua O O
+hai O O
+. O O
+
+Woh O O
+Samsung B-ORG B-ORG
+ka O O
+phone O O
+use O O
+karta O O
+hai O O
+. O O
+
+Woh O O
+Samsung B-ORG B-ORG
+ka O O
+phone O O
+use O O
+karta O O
+hai O O
+. O O
+
+Unka O O
+beta O O
+Prime B-DES B-DES
+Minister B-DES B-DES
+hai O O
+. O O
+
+Woh O O
+PTI B-ORG B-ORG
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Unka O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Azam O O
+hai O O
+. O O
+
+Unka O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Kharja O O
+hai O O
+. O O
+
+Hum O O
+Lahore B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehte O O
+hain O O
+. O O
+
+Woh O O
+HBL B-ORG B-ORG
+ki O O
+service O O
+use O O
+karta O O
+hai O O
+. O O
+
+Woh O O
+HBL B-ORG B-ORG
+ke O O
+chairman O O
+hain O O
+. O O
+
+Unka O O
+beta O O
+President B-DES B-DES
+hai O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+2015 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+PTI B-ORG B-ORG
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Fahad B-PER B-PER
+hai O O
+. O O
+
+Unka O O
+chacha O O
+Wazir B-DES B-DES
+e O O
+Azam O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+December B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+China B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Unka O O
+bhai O O
+President B-DES B-DES
+of O O
+USA B-LOC B-LOC
+hai O O
+. O O
+
+Woh O O
+UN O O
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Ayesha B-PER B-PER
+hai O O
+. O O
+
+Apple B-ORG B-ORG
+ne O O
+apna O O
+quarterly O O
+report O O
+jaari O O
+ki O O
+. O O
+
+Woh O O
+United B-ORG B-ORG
+Bank I-ORG I-ORG
+Limited I-ORG I-ORG
+ke O O
+chairman O O
+hain O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Usman B-PER B-PER
+hai O O
+. O O
+
+State B-ORG B-ORG
+Bank I-ORG I-ORG
+of I-ORG I-ORG
+Pakistan I-ORG I-ORG
+ne O O
+interest O O
+rate O O
+barhaya O O
+hai O O
+. O O
+
+Woh O O
+UN O O
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Aaj O O
+sham B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Woh O O
+Shell B-ORG B-ORG
+ki O O
+gas O O
+use O O
+karta O O
+hai O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Aaj O O
+dopahar B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+January B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Aaj O O
+sham B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+2013 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Fahad B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+Habib B-ORG B-ORG
+Bank I-ORG I-ORG
+ke O O
+chairman O O
+hain O O
+. O O
+
+Hum O O
+Lahore B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehte O O
+hain O O
+. O O
+
+Unka O O
+beta O O
+President B-DES B-DES
+hai O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Usman B-PER B-PER
+hai O O
+. O O
+
+Aaj O O
+subah B-DATE B-DATE
+ko O O
+nashta O O
+kya O O
+tha O O
+. O O
+
+Woh O O
+Samsung B-ORG B-ORG
+ka O O
+phone O O
+use O O
+karta O O
+hai O O
+. O O
+
+Aaj O O
+dopahar B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Woh O O
+HBL B-ORG B-ORG
+ke O O
+chairman O O
+hain O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Ayesha B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+1983 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+HBL B-ORG B-ORG
+ke O O
+chairman O O
+hain O O
+. O O
+
+Hum O O
+Lahore B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehte O O
+hain O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Fahad B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Woh O O
+China B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Woh O O
+do O O
+ghante O B-DATE
+mein O O
+wapis O O
+aayega O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+February B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+June B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+July B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Ayesha B-PER B-PER
+hai O O
+. O O
+
+Woh O O
+United B-ORG B-ORG
+Bank I-ORG I-ORG
+Limited I-ORG I-ORG
+ki O O
+service O O
+use O O
+karta O O
+hai O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Ali B-PER B-PER
+hai O O
+. O O
+
+Hum O O
+Australia B-LOC B-LOC
+mein O O
+rehte O O
+hain O O
+. O O
+
+Meri O O
+dost O O
+ka O O
+naam O O
+Ayesha B-PER B-PER
+hai O O
+. O O
+
+Aaj O O
+sham B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Fahad B-PER B-PER
+hai O O
+. O O
+
+Unka O O
+beta O O
+Prime B-DES B-DES
+Minister B-DES B-DES
+hai O O
+. O O
+
+Wo O O
+France B-LOC B-LOC
+ki O O
+aik O O
+chhoti O O
+university O O
+mein O O
+parhta O O
+hai O O
+. O O
+
+Unka O O
+beta O O
+President B-DES B-DES
+hai O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Unka O O
+beta O O
+President B-DES B-DES
+hai O O
+. O O
+
+Hum O O
+Lahore B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehte O O
+hain O O
+. O O
+
+Aaj O O
+dopahar B-DATE B-DATE
+ko O O
+kya O O
+khaana O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+1999 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Woh O O
+China B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Woh O O
+Shell B-ORG B-ORG
+ka O O
+petrol O O
+use O O
+karta O O
+hai O O
+. O O
+
+Woh O O
+pichle O O
+saal O O
+2019 B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Aaj O O
+subah B-DATE B-DATE
+ko O O
+nashta O O
+kya O O
+tha O O
+. O O
+
+Aaj O O
+subah B-DATE B-DATE
+ko O O
+nashta O O
+kya O O
+tha O O
+. O O
+
+Woh O O
+PTI B-ORG B-ORG
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Hum O O
+Australia B-LOC B-LOC
+mein O O
+rehte O O
+hain O O
+. O O
+
+Meri O O
+family O O
+ka O O
+naam O O
+Fahad B-PER B-PER
+hai O O
+. O O
+
+Hum O O
+Lahore B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehte O O
+hain O O
+. O O
+
+Woh O O
+America B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehta O O
+hai O O
+. O O
+
+Hum O O
+Lahore B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehte O O
+hain O O
+. O O
+
+Woh O O
+Habib B-ORG B-ORG
+Bank I-ORG I-ORG
+ke O O
+chairman O O
+hain O O
+. O O
+
+Woh O O
+pichle O O
+mahine O O
+May B-DATE B-DATE
+mein O O
+aaya O O
+tha O O
+. O O
+
+Woh O O
+PTI B-ORG B-ORG
+ki O O
+hukumat O O
+mein O O
+tha O O
+. O O
+
+Unka O O
+beta O O
+Prime B-DES B-DES
+Minister B-DES B-DES
+hai O O
+. O O
+
+Woh O O
+Shell B-ORG B-ORG
+ki O O
+gas O O
+use O O
+karta O O
+hai O O
+. O O
+
+Aaj O O
+subah B-DATE B-DATE
+ko O O
+nashta O O
+kya O O
+tha O O
+. O O
+
+Hum O O
+Lahore B-LOC B-LOC
+mein O O
+apni O O
+family O O
+ke O O
+saath O O
+rehte O O
+hain O O
+. O O
+
